@@ -14,4 +14,4 @@ I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the e
 
 
 ### Github Metrics
-<img align = 'left' height="180em" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm&custom_title=Github%20Stats"><img align = 'right' height="180em" src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=calm&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5&card_width=400px'>
+<img align = 'left' height="180em" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm&custom_title=Github%20Stats"><img align = 'right' height="180em" src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=calm&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5&card_width=400'>
