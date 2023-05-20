@@ -18,6 +18,6 @@ I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the e
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm&custom_title=Github%20Stats" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=calm&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5)" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=calm&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5" />
 </div>
 
