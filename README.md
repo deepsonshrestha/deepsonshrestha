@@ -15,9 +15,9 @@ I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the e
 
 ### Github Metrics
 <div class='container'>
-<img height="180em" style=" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=calm&custom_title=Github%20Stats" />
+<img height="180em" style=" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=Github%20Stats" />
 &nbsp;
 &nbsp;
-<img height="180em" style=" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=calm&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5" />
+<img height="180em" style=" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsonshrestha&layout=compact&theme=codeSTACKr&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5" />
 </div>
 
