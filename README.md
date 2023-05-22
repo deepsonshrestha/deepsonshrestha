@@ -4,7 +4,7 @@ I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the e
 
 ### What You'll Find Here
 
-<img src = 'https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white'> <img src = 'https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white'> <img src = 'https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src = 'https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'> <img src = 'https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe'> <img src = 'https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white'>
+<img src = 'https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white'> <img src = 'https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white'> <img src = 'https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white'> <img src = 'https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'> <img src = 'https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe'> <img src = 'https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white'>
 
 🧠 Geeked out about all things data-related, so expect to find a bunch of projects and repositories related to data analysis, data visualization, and machine learning.
 
