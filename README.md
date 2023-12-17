@@ -14,7 +14,7 @@ I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the e
 
 
 ### Github Metrics
-<div class='container'>
+<div class='container' float ='left' >
 <!-- <img height="180em" style=" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=deepsonshrestha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=Github%20Stats" /> -->
   <img src = 'https://github-readme-stats-eight-theta.vercel.app/api?username=deepsonshrestha&&count_private=true&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=929292&icon_color=F1E05A&hide_border=true&custom_title=Github%20Stats&count_private=true&include_all_commits=true'/>
 &nbsp;
