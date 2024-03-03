@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the exciting world of esports. I've got a degree in IT Engineering under my belt and currently find myself at <a target='blank' href = 'https://www.cloudfactory.com/'>CloudFactory</a>, where I get to geek out and immerse myself in the mind-blowing realm of data analytics. Stick around, and let's dive into some tech and gaming adventures together!
+I'm a technophile ,a die-hard gamer, and a total data nerd who's all about the exciting world of esports. I've got a degree in IT Engineering under my belt and currently find myself at <a target='blank' href = 'https://www.maitriservices.com/'>Maitri Services</a>, where I get to geek out and immerse myself in the mind-blowing realm of data analytics. Stick around, and let's dive into some tech and gaming adventures together!
 
 ### What You'll Find Here
 
